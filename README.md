@@ -1,2 +1,3 @@
-# South_African_Identification_Hack_Mohau2023
-This repository contains the analysis and findings of the South African Identification Hack 2023, ExploreAI Academy Classification Hackathon. Dive into the rich tapestry of South Africa's 11 official languages and discover insights into language usage, proficiency, and multiculturalism.
+# South_African_Language_Identification
+This project focuses on identifying languages within a diverse, multilingual dataset using machine learning. Given South Africa’s linguistic diversity, the ability to accurately classify language in text is crucial for effective communication and technological inclusivity. The dataset contains over 33,000 samples of text across multiple languages spoken in South Africa.
+
